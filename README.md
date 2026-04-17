@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:vardankadyan@gmail.com">Email</a> • 
-  <a href="(https://www.linkedin.com/in/vardan-kadyan-299a5b286/)/">LinkedIn</a>
+  <a href=https://www.linkedin.com/in/vardan-kadyan-299a5b286/">LinkedIn</a>
 </p>
 
 ---
