@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="mailto:vardankadyan@gmail.com">Email</a> • 
-  <a href="https://github.com/">GitHub</a> • 
-  <a href="https://linkedin.com/">LinkedIn</a>
+  <a href="(https://www.linkedin.com/in/vardan-kadyan-299a5b286/)/">LinkedIn</a>
 </p>
 
 ---
@@ -94,8 +93,7 @@
 
 ## 📫 Let's Connect
 - 📧 Email: vardankadyan@gmail.com  
-- 💼 LinkedIn: (Add your link)  
-- 🧑‍💻 GitHub: (Add your link)
+- 💼 LinkedIn: (https://www.linkedin.com/in/vardan-kadyan-299a5b286/)
 
 ---
 
